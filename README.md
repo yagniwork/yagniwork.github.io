@@ -1,1 +1,3 @@
-# yagniwork.github.io
+# yagni.work
+
+> you aren't gonna need it
